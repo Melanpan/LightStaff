@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.yml": "yaml",
+        "*.tcc": "cpp",
+        "istream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
